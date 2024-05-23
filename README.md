@@ -1,4 +1,4 @@
-# Banking Database Design
+# Consumer Sales Database Design and Analysis
 
 ## Objective
 
